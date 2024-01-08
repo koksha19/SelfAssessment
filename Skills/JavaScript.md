@@ -4,42 +4,42 @@
   - Object: 🖐️ used
   - this: 🖐️ used
   - arrow function: 🖐️ used
-  - async function: 👂 heard
-  - call
-  - bind
-  - apply
-  - instanceof
-  - ...spread
-  - ...rest
+  - async function: 🖐️ used
+  - call: 🖐️ used
+  - bind: 🖐️ used
+  - apply: 🖐️ used
+  - instanceof: 🖐️ used
+  - ...spread: 🖐️ used
+  - ...rest: 🖐️ used
   - typeof: 🖐️ used
-  - destructuring: 👂 heard
-  - generator: 👂 heard
-  - iterator: 👂 heard
-  - async generator
-  - async iterator
-  - chaining
-  - optional chaining
-  - IIFE
-  - global
+  - destructuring: 🖐️ used
+  - generator: 🖐️ used
+  - iterator: 🖐️ used
+  - async generator: 👂 heard
+  - async iterator: 👂 heard
+  - chaining: 👂 heard
+  - optional chaining: 👂 heard
+  - IIFE: 🎓 known
+  - global: 👂 heard
   - globalThis
-  - window
-  - getters and setters: 👂 heard
-  - __proto__
-  - prototype
+  - window: 👂 heard
+  - getters and setters: 🖐️ used
+  - __proto__: 👂 heard
+  - prototype: 🖐️ used
   - equality operators: 🖐️ used
   - logical operators: 🖐️ used
   - bitwise operators: 🖐️ used
   - ternary operator: 🖐️ used
   - void: 🖐️ used
-  - yield
-  - await: 👂 heard
+  - yield: 🖐️ used
+  - await: 🖐️ used
   - template literal
-  - strict mode
-  - delete: 👂 heard
-  - in: 👂 heard
-  - super: 👂 heard
-  - Symbol: 👂 heard
-  - Reflect
+  - strict mode: 🖐️ used
+  - delete: 🖐️ used
+  - in: 🖐️ used
+  - super: 🖐️ used
+  - Symbol: 🖐️ used
+  - Reflect: 👂 heard
 - Statements
   - if: 🖐️ used
   - while: 🖐️ used
@@ -47,43 +47,43 @@
   - for: 🖐️ used
   - for..in: 🖐️ used
   - for..of: 🖐️ used
-  - for await
+  - for await: 👂 heard
   - throw: 🖐️ used
   - break: 🖐️ used
   - continue: 🖐️ used
-  - import: 👂 heard
-  - export: 👂 heard
+  - import: 🖐️ used
+  - export: 🖐️ used
   - label
-  - try..catch: 👂 heard
-  - switch: 👂 heard
-  - class: 👂 heard
-  - new Error: 👂 heard
-  - with
+  - try..catch: 🖐️ used
+  - switch: 🖐️ used
+  - class: 🖐️ used
+  - new Error: 🖐️ used
+  - with: 🖐️ used
 - Functions
   - function declaration: 🖐️ used
   - function expression: 🖐️ used
   - return: 🖐️ used
-  - default parameters
-  - functional object
+  - default parameters: 🖐️ used
+  - functional object: 🎓 known
 - Data structures
   - Array: 🖐️ used
-  - mixin
+  - mixin: 🖐️ used
   - extend: 🖐️ used
-  - typed arrays: 👂 heard
+  - typed arrays: 🎓 known
   - Map: 🖐️ used
-  - Set: 👂 heard
+  - Set: 🖐️ used
   - undefined: 🖐️ used
   - null: 🖐️ used
-  - Proxy
-  - weak collections
-  - timers: 👂 heard
-  - EventEmitter
+  - Proxy: 🎓 known
+  - weak collections: 🖐️ used
+  - timers: 🖐️ used
+  - EventEmitter: 🎓 known
   - RegExp
-  - Date
-  - BigInt
+  - Date: 👂 heard
+  - BigInt: 🎓 known
 - Infrastructure
-  - V8: 👂 heard
-  - Node.js: 👂 heard
-  - npm: 👂 heard
-  - prettier: 🎓 known
-  - MDN: 👂 heard
+  - V8: 🖐️ used
+  - Node.js: 🖐️ used
+  - npm: 🖐️ used
+  - prettier: 🖐️ used
+  - MDN: 🖐️ used
