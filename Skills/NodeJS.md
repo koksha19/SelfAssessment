@@ -64,7 +64,6 @@
   - Multilayer approach: 🖐️ used
   - Separation of concerns
   - Inversion of control
-  - Dependency injection: 🖐️ used
   - GRASP
   - SOLID
   - GoF patterns
@@ -105,7 +104,6 @@
   - SQL injection
   - noDelay
   - keep-alive
-  - IP sticky sessions
 - Technique and tools
   - Native test runner
   - Logging: 🖐️ used
@@ -119,10 +117,10 @@
   - Buffer: 🎓 known
   - Console: 🖐️ used
   - Inspector
-  - Reliability🙋 explained
-  - Quality🙋 explained
-  - Availability🙋 explained
-  - Flexibility🙋 explained
+  - Reliability: 🙋 explained
+  - Quality: 🙋 explained
+  - Availability: 🙋 explained
+  - Flexibility: 🙋 explained
 - Data access
   - Data access layer: 🖐️ used
   - Repository: 🖐️ used
@@ -150,14 +148,13 @@
   - Zig addons
   - NAN (Native Abstractions for Node.js): 👂 heard
   - Node-API (formerly N-API): 👂 heard
-  - NAPI C and C++
+  - NAPI C and C+: 🎓 known
   - NAPI Rust
   - NAPI Zig
   - Webassembly WAT
-  - Webassembly C and C++
+  - Webassembly C and C+: 🎓 known
   - Webassembly Rust
   - Webassembly Zig
   - Webassembly AssemblyScript
   - Shared memory: 👂 heard
-  - SharedArrayBuffer
   - V8 binary serialization

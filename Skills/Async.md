@@ -74,8 +74,6 @@
   - Error handling in async code: 🖐️ used
   - Better stack traces with return await: 👂 heard
   - JSON: streaming serialization: 👂 heard
-  - promisify: 👂 heard
-  - callbackify: 👂 heard
   - AsyncLocalStorage
   - AsyncResource
 - Techniques
@@ -89,4 +87,3 @@
   - IPC
   - Channel API
   - Revealing Constructor
-  - Web Locks API: 👂 heard

@@ -36,7 +36,7 @@
   - identifier: 🖐️ used
   - variable: 🖐️ used
   - constant: 🖐️ used
-  - scalar:  🖐️ used
+  - scalar: 🖐️ used
   - literal: 🖐️ used
   - expression: 🖐️ used
   - heap: 🎓 known
@@ -66,7 +66,7 @@
   - parameter: 🖐️ used
   - pure function: 🖐️ used
   - lambda expression: 🖐️ used
-  - side effects: : 🖐️ used
+  - side effects:: 🖐️ used
   - closure: 🖐️ used
   - partial application: 🖐️ used
   - curry: 🖐️ used
@@ -90,7 +90,6 @@
   - enum: 🖐️ used
   - instance: 🖐️ used
   - object: 🖐️ used
-  - class: 🖐️ used
   - collection: 🖐️ used
   - set: 🖐️ used
   - hash table: 🖐️ used
