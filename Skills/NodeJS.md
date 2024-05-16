@@ -43,15 +43,14 @@
   - Worker threads: 👂 heard
   - Performance hooks
   - Native fetch and nodejs/undici
-  - node:async_hooks
+  - async_hooks
   - AsyncLocalStorage
   - AsyncResource
   - Deprecated domain API
   - Node.js single executable
-  - Stream back pressure
   - SharedArrayBuffer
-  - node:worker_threads
-  - node:child_process
+  - Module `node:worker_threads`
+  - Module `node:child_process`
   - MessageChannel, MessagePort
   - BroadcastChannel
   - Generating crypto random UUID: 🖐️ used
@@ -103,15 +102,10 @@
   - Path traversal
   - CSRF
   - DNS
-  - Fetch API
-  - IncomingMessage
   - SQL injection
   - noDelay
   - keep-alive
-  - ALPN
-  - SNI callback
-  - SSL certificates
-  - Protocol agnostic approach
+  - IP sticky sessions
 - Technique and tools
   - Native test runner
   - Logging: 🖐️ used
@@ -142,7 +136,6 @@
   - error.message
   - error.stack
   - How to avoid mixins
-  - Error.captureStackTrace
   - Uncaught exceptions
   - Heap dump
   - Debugging tools: 🎓 known

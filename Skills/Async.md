@@ -66,8 +66,6 @@
   - AbortSignal
   - Promise unhandled rejection
   - Promise double resolve
-  - child_process
-  - worker_threads
   - Atomics
   - High resolution clock
   - Callback hell
@@ -83,7 +81,6 @@
 - Techniques
   - async.js library: 👂 heard
   - RxJS library
-  - Async composition
   - Promise.all
   - Promise.allSettled
   - Promise.race
