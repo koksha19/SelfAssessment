@@ -1,15 +1,15 @@
 ## Architecture
 
 - Application structure
-  - Modularity: 🖐️
-  - Components: 🖐️
-  - Directories: 🖐️
-  - GRASP: 👂
-  - SOLID: 👂
+  - Modularity: 🖐️ used
+  - Components: 🖐️ used
+  - Directories: 🖐️ used
+  - GRASP: 👂 heard
+  - SOLID: 👂 heard
   - GoF patterns
   - CQS
   - Leaking abstractions
-  - Multiparadigm code: 👂
+  - Multiparadigm code: 👂 heard
   - Contract programming
   - Platform-agnostic
   - Transport-agnostic
@@ -18,40 +18,40 @@
   - Cohesion
   - Coupling
   - Cyclomatic complexity
-  - Reliability: 🎓
-  - Quality: 🎓
-  - Availability: 🎓
-  - Flexibility: 🎓
+  - Reliability: 🎓 known
+  - Quality: 🎓 known
+  - Availability: 🎓 known
+  - Flexibility: 🎓 known
   - Law of Demeter (LoD)
 - Application architecture
-  - Isolation between layer: 🎓
-  - Domain-specific language (DSL): 👂
-  - System vs applied code: 🎓
-  - Multilayer approach: 🎓
-  - Hexagonal architecture: 👂
-  - Separation of concerns (SoC): 🎓
+  - Isolation between layer: 🎓 known
+  - Domain-specific language (DSL): 👂 heard
+  - System vs applied code: 🎓 known
+  - Multilayer approach: 🎓 known
+  - Hexagonal architecture: 👂 heard
+  - Separation of concerns (SoC): 🎓 known
   - Metaprogramming
-  - Inversion of control (IoC): 👂
-  - Dependency injection (DI): 👂
-  - Clean architecture: 👂
+  - Inversion of control (IoC): 👂 heard
+  - Dependency injection (DI): 👂 heard
+  - Clean architecture: 👂 heard
   - Domain-driven design (DDD)
   - Pub/sub
   - Message brocker
   - Agent
   - Service locator
-  - Message Queue (MQ): 👂
+  - Message Queue (MQ): 👂 heard
   - CQRS
   - Event sourcing
   - E-R data modeling
   - Entity-relationship diagram
   - IDEF1X
-  - UML: 👂
+  - UML: 👂 heard
   - Work breakdown structure
   - Budget estimation
   - Distributed systems
   - High-intensive computing
   - Load balancing
-  - Gateways: 👂
+  - Gateways: 👂 heard
   - On-premises
   - IaaS
   - PaaS
@@ -72,8 +72,8 @@
   - Non Functional Requirements (NFR)
   - Clouds
   - BPMN
-  - Low-code: 👂
-  - No-code: 👂
+  - Low-code: 👂 heard
+  - No-code: 👂 heard
   - Metric
   - Metric abuse
   - ACID
@@ -88,7 +88,7 @@
   - Project scope
   - Enterprise service bus
   - Service-oriented architecture
-  - Microservices: 👂
+  - Microservices: 👂 heard
   - Process choreography
   - Service orchestration
   - Data warehouse

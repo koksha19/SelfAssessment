@@ -1,52 +1,52 @@
 ## Multi-paradigm programming
 
 - Theory
-  - Procedural programming: 🖐️
-  - Imperative programming: 🖐️
-  - Structured programming: 🎓
-  - Non-structured programming: 🎓
-  - Functional programming: 🖐️
-  - Prototype-based programming: 🖐️
-  - Object-oriented programming: 🖐️
-  - Object-based programming: 🎓
-  - Generic programming: 👂
-  - Concurrent computing: 👂
-  - Asynchronous programming: 🖐️
-  - Parallel programming: 🎓
-  - Reactive programming: 🎓
+  - Procedural programming: 🖐️ used
+  - Imperative programming: 🖐️ used
+  - Structured programming: 🎓 known
+  - Non-structured programming: 🎓 known
+  - Functional programming: 🖐️ used
+  - Prototype-based programming: 🖐️ used
+  - Object-oriented programming: 🖐️ used
+  - Object-based programming: 🎓 known
+  - Generic programming: 👂 heard
+  - Concurrent computing: 👂 heard
+  - Asynchronous programming: 🖐️ used
+  - Parallel programming: 🎓 known
+  - Reactive programming: 🎓 known
   - Functional-reactive (FRP)
-  - Automata-based programming: 👂
-  - Domain-specific languages: 🎓
-  - Multi-paradigm programming: 🖐️
-  - Metaprogramming: 🎓
+  - Automata-based programming: 👂 heard
+  - Domain-specific languages: 🎓 known
+  - Multi-paradigm programming: 🖐️ used
+  - Metaprogramming: 🎓 known
   - Actor model
   - Lambda calculus
   - Black box
-  - Information hiding: 👂
+  - Information hiding: 👂 heard
   - Aspect-oriented programming
   - Anemic domain model
   - Class composition
 - OOP basics
-  - Constructor: 🖐️
-  - Operator `new`: 🖐️
-  - Static method: 🖐️
-  - Method: 🖐️
-  - Async method: 🖐️
-  - Getters, Setters: 🖐️
-  - Public fields: 🖐️
-  - Private fields: 🖐️
-  - Field declarations: 🖐️
-  - Inheritance: 🖐️
-  - Parent class: 🖐️
-  - Polymorphism: 🎓
-  - Abstract class: 🎓
-  - Interface: 🎓
-  - Encapsulation: 🎓
-  - Hidden class: 🎓
-  - Object form: 👂
-  - Instance: 🖐️
-  - Introspection: 🎓
-  - Reflection: 👂
+  - Constructor: 🖐️ used
+  - Operator `new`: 🖐️ used
+  - Static method: 🖐️ used
+  - Method: 🖐️ used
+  - Async method: 🖐️ used
+  - Getters, Setters: 🖐️ used
+  - Public fields: 🖐️ used
+  - Private fields: 🖐️ used
+  - Field declarations: 🖐️ used
+  - Inheritance: 🖐️ used
+  - Parent class: 🖐️ used
+  - Polymorphism: 🎓 known
+  - Abstract class: 🎓 known
+  - Interface: 🎓 known
+  - Encapsulation: 🎓 known
+  - Hidden class: 🎓 known
+  - Object form: 👂 heard
+  - Instance: 🖐️ used
+  - Introspection: 🎓 known
+  - Reflection: 👂 heard
   - The diamond problem
 - GRASP
   - Information expert
@@ -59,28 +59,28 @@
   - Pure fabrication
 - SOLID
   - Single-responsibility principle (SRP)
-  - Open–closed principle (OCP): 👂
-  - Liskov substitution principle (LSP): 👂
-  - Interface segregation principle (ISP): 👂
-  - Dependency inversion principle (DIP): 👂
+  - Open–closed principle (OCP): 👂 heard
+  - Liskov substitution principle (LSP): 👂 heard
+  - Interface segregation principle (ISP): 👂 heard
+  - Dependency inversion principle (DIP): 👂 heard
 - Patterns
-  - Singleton: 👂
-  - Factory Method: 👂
+  - Singleton: 👂 heard
+  - Factory Method: 👂 heard
   - Abstract Factory
   - Adapter
   - Observer
   - Strategy
   - Facade
-  - Proxy: 👂
-  - Chain of Responsibility: 👂
-  - Command: 👂
-  - Iterator: 🖐️
-  - State: 🎓
+  - Proxy: 👂 heard
+  - Chain of Responsibility: 👂 heard
+  - Command: 👂 heard
+  - Iterator: 🖐️ used
+  - State: 🎓 known
   - Bridge
-  - Builder: 👂
-  - Prototype: 🖐️
+  - Builder: 👂 heard
+  - Prototype: 🖐️ used
   - Composite
-  - Decorator: 🖐️
+  - Decorator: 🖐️ used
   - Flyweight
   - Mediator
   - Memento
