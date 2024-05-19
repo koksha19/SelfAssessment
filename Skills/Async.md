@@ -2,13 +2,13 @@
 
 - Theory
   - Event loop: 🎓 known
-  - try..catch: 🖐️ used
-  - Non-blocking
+  - `try..catch`: 🖐️ used
+  - Non-blocking: 👂 heard
   - Async I/O: 🎓 known
-  - Thread pool
+  - Thread pool: 👂 heard
   - Pattern Reactor
   - CAS operations
-  - epoll: 👂 heard
+  - epoll
   - kqueue
   - Completion ports
   - Event ports: 👂 heard
@@ -16,74 +16,74 @@
   - Race conditions
   - Dead locks
   - Live locks
-  - Concurrent programming: 👂 heard
-  - Parallel programming: 👂 heard
+  - Concurrent programming: 🎓 known
+  - Parallel programming: 🎓 known
   - Actor Model
-  - Thread
-  - Process
+  - Thread: 🎓 known
+  - Process: 🎓 known
 - Async contracts
   - Callbacks: 🖐️ used
   - Callback-last-error-first: 🖐️ used
   - Thenable: 👂 heard
   - Promise: 🖐️ used
   - Async/await: 🖐️ used
-  - Future
+  - Future: 👂 heard
   - Deferred
   - Sync generator: 👂 heard
   - Async Generator: 👂 heard
   - Async Iterator: 👂 heard
-  - Event: 🎓 known
-  - Coroutine: 🎓 known
+  - Event: 🖐️ used
+  - Coroutine: 👂 heard
   - Goroutine: 👂 heard
   - Signal: 👂 heard
   - Stream: 🎓 known
-  - Chain of responsibility
+  - Chain of responsibility: 🎓 known
   - Middleware: 🖐️ used
   - Locks: 👂 heard
 - Async adapters and utils
   - callbackify: 👂 heard
   - promisify: 👂 heard
   - asyncify: 👂 heard
-  - callbacks compose
-  - async compose
+  - Callbacks compose
+  - Async compose
 - Async abstractions interfaces
-  - EventEmitter: 🎓 known
-  - Observable/Observer: 🎓 known
+  - EventEmitter: 🖐️ used
+  - Observable/Observer: 👂 heard
   - Readable: 👂 heard
   - Writable: 👂 heard
-  - Transform: 👂 heard
-  - Async Pool: 👂 heard
-  - Async Queue: 👂 heard
+  - Transform
+  - Async Pool: 🎓 known
+  - Async Queue: 🎓 known
   - Async Collector: 👂 heard
   - Semaphore: 👂 heard
-  - Mutex
-  - Spin Lock
+  - Mutex: 👂 heard
+  - Spin Lock: 👂 heard
 - JavaScript & Node.js specific
   - Timers: 🖐️ used
-  - setImmediate: 👂 heard
-  - nextTick
-  - AbortController
-  - AbortSignal
-  - Promise unhandled rejection
-  - Promise double resolve
+  - `setImmediate`: 🖐️ used
+  - `nextTick`: 🖐️ used
+  - AbortController: 🎓 known
+  - AbortSignal: 🎓 known
+  - Promise unhandled rejection: 🎓 known
+  - Promise double resolve: 🎓 known
   - Atomics
   - High resolution clock
-  - Callback hell
-  - Promise hell
-  - ref() and unref()
+  - Callback hell: 🎓 known
+  - Promise hell: 🎓 known
+  - ref() and unref(): 👂 heard
   - Error handling in async code: 🖐️ used
-  - Better stack traces with return await: 👂 heard
-  - JSON: streaming serialization: 👂 heard
+  - Better stack traces with return await
+  - JSON streaming serialization
   - AsyncLocalStorage
   - AsyncResource
 - Techniques
-  - async.js library: 👂 heard
+  - Async.js library: 🎓 known
   - RxJS library
   - Promise.all
   - Promise.allSettled
   - Promise.race
   - Promise.any
-  - Web Locks API: 👂 heard
+  - Web Locks API: 🎓 known
   - IPC
   - Channel API
-  - Revealing Constructor
+  - Revealing constructor
